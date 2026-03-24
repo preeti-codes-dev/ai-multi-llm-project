@@ -27,7 +27,24 @@ python huggingface_example.py
 python ollama_example.py
 
 ## Screenshots
-See screenshots folder for outputs.
+
+### Groq Output
+![Groq Output](screenshots/groq_output.png)
+
+### Cohere Output
+![Cohere Output](screenshots/cohere_output.png)
+
+### HuggingFace Output
+![HuggingFace Output](screenshots/huggingface_output.png)
+
+### Ollama Output
+![Ollama Output](screenshots/ollama_output.png)
+
+### Gemini Output (Quota Error)
+![Gemini Output](screenshots/gemini_output.png)
+
+### OpenAI Output (Quota Error)
+![OpenAI Output](screenshots/openai_output.png)
 
 ## Note
 Gemini and OpenAI may show quota errors depending on API limits.
