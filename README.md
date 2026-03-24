@@ -16,16 +16,6 @@ The main objectives of this project are:
 - To send user input and receive AI-generated responses  
 - To handle errors properly when APIs fail  
 
-
-##  What is Artificial Intelligence?
-
-Artificial Intelligence (AI) is a technology that allows computers to think, learn, and respond like humans.
-
-Examples:
-- Chatbots  
-- Voice assistants  
-- Recommendation systems  
-
 ##  What I Did in This Project
 
 In this project, I:
@@ -106,20 +96,30 @@ python openai_example.py
 
 ##  Project Structure
 ai-multi-llm-project/
+
 ├── groq_example.py
+
 ├── cohere_example.py
+
 ├── huggingface_example.py
+
 ├── ollama_example.py
+
 ├── gemini_example.py
+
 ├── openai_example.py
+
 ├── utils/config.py
+
 ├── screenshots/
+
 ├── README.md
 
 
 ##  Security
 
-- API keys are stored securely in a `.env` file  
+- API keys are stored securely in a `.env` file
+  
 - Sensitive information is not shared publicly  
 
 
